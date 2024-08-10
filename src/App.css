@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin-top: 40vh;
+}
+
+.App__btn{
+  cursor: pointer; 
 }
 
 .App-logo {
