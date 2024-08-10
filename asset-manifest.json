@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-auth-google/static/css/main.37f44b0d.css",
-    "main.js": "/test-auth-google/static/js/main.e8febc21.js",
+    "main.js": "/test-auth-google/static/js/main.eb56fbdc.js",
     "static/js/453.df26d89e.chunk.js": "/test-auth-google/static/js/453.df26d89e.chunk.js",
     "index.html": "/test-auth-google/index.html",
     "main.37f44b0d.css.map": "/test-auth-google/static/css/main.37f44b0d.css.map",
-    "main.e8febc21.js.map": "/test-auth-google/static/js/main.e8febc21.js.map",
+    "main.eb56fbdc.js.map": "/test-auth-google/static/js/main.eb56fbdc.js.map",
     "453.df26d89e.chunk.js.map": "/test-auth-google/static/js/453.df26d89e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37f44b0d.css",
-    "static/js/main.e8febc21.js"
+    "static/js/main.eb56fbdc.js"
   ]
 }
